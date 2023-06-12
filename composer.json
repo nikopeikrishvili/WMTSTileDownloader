@@ -1,4 +1,15 @@
 {
+  "name": "nikoP/WMTSTileDownloader",
+  "type": "library",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Niko Peikrishvili",
+      "email": "niko.peikrishvili@gmail.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "WMTSTileDownloader\\": "src/"

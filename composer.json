@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WMTSTileDownloader\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2",
+    "guzzlehttp/guzzle": "^7.7"
+  },
+  "require-dev": {
+    "phpstan/phpstan": "^1.10",
+    "phpunit/phpunit": "^10.2"
+  }
+}

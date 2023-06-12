@@ -1,5 +1,5 @@
 {
-  "name": "nikoP/WMTSTileDownloader",
+  "name": "nikop/wmts-tile-downloader",
   "type": "library",
   "minimum-stability": "dev",
   "license": "MIT",
